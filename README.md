@@ -1,7 +1,17 @@
-# NBE6-8-3-Team06(Bookers)
+# Bookers
 
 ## 프로젝트 소개
-프로그래머스 백엔드 데브코스에서 3차 프로젝트로 진행한 내 책장 관리 서비스입니다.
+Bookers는 단순한 책 관리를 넘어, 사용자가 자신의 독서 여정을 한눈에 보고, 생각의 조각들을 모으며, 다음 책으로 나아갈 영감을 얻는 공간이 되는 것을 목표로 합니다.
+
+## 시연 영상
+https://github.com/user-attachments/assets/2913877d-7ed6-40ba-938d-6ebfb68bada6
+
+---
+
+## 시스템 구성도
+<img width="1000" height="600" alt="시스템 구성도" src="https://github.com/user-attachments/assets/5d0fb2d4-f578-4d20-9877-787fff8dc1a3" />
+
+---
 
 ## 협업규칙
 1. 작업은 main 브랜치가 아닌 작업용 브랜치를 따로 만들어서 진행해주세요.
