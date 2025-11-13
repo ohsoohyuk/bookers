@@ -3,6 +3,8 @@
 ## 프로젝트 소개
 Bookers는 단순한 책 관리를 넘어, 사용자가 자신의 독서 여정을 한눈에 보고, 생각의 조각들을 모으며, 다음 책으로 나아갈 영감을 얻는 공간이 되는 것을 목표로 합니다.
 
+**홈페이지** : [Bookers](https://www.bookers.p-e.kr)
+
 ## 시연 영상
 https://github.com/user-attachments/assets/2913877d-7ed6-40ba-938d-6ebfb68bada6
 
